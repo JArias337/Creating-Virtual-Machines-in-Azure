@@ -76,6 +76,7 @@ As the virtual machine begins to start, you will see a screen related to privacy
 <p align="center">
   <img src="https://i.imgur.com/grG4HKs.png">
  
+<h3>Step 4: Deleting Your Resource Group</h3>
   
 Once you are done using your virtual machine, you will need to delete the resource group so you are not being charged when you are not using it. In order to do this, type "Resource groups", click on the Resource group that you would like to delete, select "Delete resource group", copy and paste the name of the resource group below and then hit "Delete."
 
