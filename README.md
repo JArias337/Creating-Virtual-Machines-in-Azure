@@ -8,6 +8,14 @@
  <h1>Introduction</h1>
 In this step-by-step guide, we will be using Microsfot Azure to create and deploy a virtual machine. 
 
+ <h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10 (22H2)
+ 
 <h2>Step-By-Step Guide</h2>
 
 <h3>Step 1: Creating a resource group</h3>
